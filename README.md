@@ -1,4 +1,4 @@
-# Extension  Hacking with Swift
+# Extension  Hacking with Swift.
 Extend Safari with a cool feature for JavaScript developers.
 
 
